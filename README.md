@@ -10,13 +10,9 @@ Kindly follow the steps below **in advance before joining the session**. This wi
 
 ## 🔗 **Pre DevOps Training Survey:** [https://forms.office.com/r/Lts7t9g4Lw](https://forms.office.com/r/Lts7t9g4Lw)
 
-## 🔗 **GitHub Repository:**
-[https://github.com/atulkamble/DevOps-1059](https://github.com/atulkamble/DevOps-1059)
+## 🔗 **GitHub Repository:** [https://github.com/atulkamble/DevOps-1059](https://github.com/atulkamble/DevOps-1059)
 
-## 🔗 **Join Google Classroom (Mandatory)**
-
-Join the Google Classroom **in advance** using the link below:
-👉 [https://classroom.google.com/c/ODI0NTgyODg5Mjg5?cjc=vsx5ic6a](https://classroom.google.com/c/ODI0NTgyODg5Mjg5?cjc=vsx5ic6a)
+## 🔗 **Join Google Classroom (Mandatory)** [https://classroom.google.com/c/ODI0NTgyODg5Mjg5?cjc=vsx5ic6a](https://classroom.google.com/c/ODI0NTgyODg5Mjg5?cjc=vsx5ic6a)
 
 All session updates, resources, and announcements will be shared there.
 
