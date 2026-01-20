@@ -2,6 +2,23 @@
 
 DevOps-1059 Batch | Ethans Tech
 
+**Hello Everyone,**
+
+Kindly follow the steps below **in advance before joining the session**. This will help us start smoothly and save time during the class.
+
+🔗 **GitHub Repository:**
+[https://github.com/atulkamble/DevOps-1059](https://github.com/atulkamble/DevOps-1059)
+
+Please make sure you have:
+
+* Opened the repository
+* Read the instructions carefully
+* Completed the mentioned prerequisites (if any)
+
+Thank you for your cooperation.
+
+**– Atul Sir**
+
 ---
 
 ## 🔗 **Join Google Classroom (Mandatory)**
