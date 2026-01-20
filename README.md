@@ -1,4 +1,5 @@
 # DevOps-1059
+
 DevOps-1059 Batch | Ethans Tech
 
 ---
@@ -46,6 +47,25 @@ Verify:
 
 ```bash
 git --version
+```
+
+---
+
+### 🔹 **PowerShell (Latest Version – Mandatory)**
+
+PowerShell is required for automation, scripting, and DevOps tasks.
+
+Download:
+
+* Windows / macOS / Linux:
+  [https://learn.microsoft.com/powershell/scripting/install/installing-powershell](https://learn.microsoft.com/powershell/scripting/install/installing-powershell)
+
+> ⚠️ Windows users: Install **PowerShell 7+**, not Windows PowerShell 5.1
+
+Verify:
+
+```bash
+pwsh --version
 ```
 
 ---
@@ -99,6 +119,8 @@ terraform --version
 
 Download:
 [https://www.jenkins.io/download/](https://www.jenkins.io/download/)
+
+> Jenkins will be configured during the session
 
 ---
 
@@ -199,3 +221,4 @@ aws sts get-caller-identity
 * ✅ Completing this setup in advance will help you get **maximum value from the session**
 
 ---
+
