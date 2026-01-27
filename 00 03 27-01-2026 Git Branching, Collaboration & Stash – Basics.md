@@ -1,4 +1,4 @@
-# 📌 Git Branching, Collaboration & Stash – Basics
+# 📌 Git Branching, Collaboration & Stash
 
 ---
 
